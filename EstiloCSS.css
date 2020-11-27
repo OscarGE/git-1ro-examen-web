@@ -1,0 +1,142 @@
+div.Encabezado{
+	position: absolute; 
+	left: 0px; 
+	top: 0px;
+	height: 29px; 
+	width: 1366px; 
+	background-color: #D6D4D4 
+}
+td.letrasEncabezado{color:#000000;}
+
+
+div.menuHorizontalUAALogo{
+	position: absolute; 
+	left: 0px; 
+	top: 29px;
+}
+div.menuHorizontal{
+	position: absolute; 
+	left: 349px; 
+	top: 29px;
+	height: 100px; 
+	width: 1017px; 
+	background-color: #223FB0; 
+}
+td.letrasMenuHorizontal{color:  #FFFFFF; text-align: center; font-family: Impact, Charcoal, sans-serif; font-size: 20}
+a.letrasMenuHorizontal:visited{color:  #FFFFFF; text-align: center; font-family: Impact, Charcoal, sans-serif; font-size: 20}
+a.letrasMenuHorizontal:active{color:  #FFFFFF; text-align: center; font-family: Impact, Charcoal, sans-serif; font-size: 20}
+a.letrasMenuHorizontal:link{color:  #FFFFFF; text-align: center; font-family: Impact, Charcoal, sans-serif; font-size: 20;text-decoration: none; }
+a.letrasMenuHorizontal:hover{color:  #FFFFFF; text-align: center; font-family: Impact, Charcoal, sans-serif; font-size: 30}
+
+
+div.imgGallo{position: absolute; left: 0px; top: 129px; z-index: 0;}
+div.imgBiblioteca{position: absolute; left: 350px; top: 129px; z-index: 0;}
+div.imgJardin{position: absolute; left: 350px; top: 304px; z-index: 0;}
+div.imgMonumento{position: absolute; left: 709px; top: 129px; z-index: 0;}
+div.imgSalones{position: absolute; left: 930px; top: 304px; z-index: 0;}
+div.imgTorre{position: absolute; left: 1016px; top: 129px; z-index: 0;}
+div.textoGaleria{position: absolute; left: 2px; top: 430px; z-index: 1; color: #E8A32B;font-family: Impact, Charcoal, sans-serif; font-size: 43}
+
+
+div.isc{
+	position: absolute; 
+	left: 0px; 
+	top: 479px;
+	height: 350px; 
+	width: 1366px; 
+	background-color: #ECD119; 
+	z-index: 0;
+}
+div.imgLogoISC{position: absolute; left: 90px; top: 520px; z-index: 1;}
+div.tituloISC{position: absolute; left: 580px; top: 500px; z-index: 1; color:#E556EE ;font-family: Impact, Charcoal, sans-serif; font-size: 43}
+div.imgEstudiante{position: absolute; left: 90px; top: 740px; z-index: 1;}
+div.imgWeb{position: absolute; left: 240px; top: 740px; z-index: 1;}
+div.imgRedes{position: absolute; left: 400px; top: 740px; z-index: 1;}
+div.textoISC{position: absolute; left: 560px; top: 540; z-index: 1; color:#E556EE ;font-family:  Arial, Helvetica, sans-serif; font-size: 14}
+p.tituloTextoISC{font-size: 18; color: #B60EC0}
+
+
+div.ubicacionYMapa{
+	position: absolute; 
+	left: 0px; 
+	top: 829px;
+	height: 350px; 
+	width: 1366px; 
+	background-color: #FFFFFF;; 
+	z-index: 0;
+}
+div.UAAubicacion{position: absolute; left: 0px; top: 829px; z-index: 1;}
+div.UAAmapa{position: absolute; left: 640px; top: 829px; z-index: 1;}
+div.textoUbicacion{position: absolute; left: 440px; top: 1000; z-index: 1; color:#382F2F ;font-family: Impact, Charcoal, sans-serif; font-size: 15}
+div.textoMapa{position: absolute; left: 1185px; top: 805; z-index: 1; color:#382F2F ;font-family: Impact, Charcoal, sans-serif; font-size: 15}
+p.tituloUbicacionYMapaC{font-size: 35; color: #000000}
+
+
+div.contactos{
+	position: absolute; 
+	left: 0px; 
+	top: 1179px;
+	height: 350px; 
+	width: 1366px; 
+	background-color: #E92424; 
+	z-index: 0;
+}
+td.letrasEncabezadoContactos{color:#FFFFFF;font-size: 33;}
+p.encabezadoContactos{color:#FFFFFF;font-size: 33;font-family: Impact, Charcoal, sans-serif;}
+a.contacto:visited {color:#ECD119; font-size: 33; text-decoration:underline;}
+a.contacto:active {color: #FFFFFF;font-size: 33;text-decoration: underline}
+a.contacto:link {color: #FFFFFF;font-size: 33;text-decoration: underline;}
+a.contacto:hover {color: #FFFFFF; font-size: 35;text-decoration: underline;}
+
+
+
+
+
+div.galeriaPestaña1{
+	position: absolute; 
+	left: 0px; 
+	top: 129px;
+	height: 1150px; 
+	width: 350px; 
+	background-color: #E92424; 
+	z-index: 0;
+}
+div.galeriaPestaña2{
+	position: absolute; 
+	left: 0px; 
+	top: 129px;
+	height: 1150px; 
+	width: 350px; 
+	background-color: #ECD119; 
+	z-index: 0;
+}
+div.textoContenido{
+	position: absolute; 
+	left: 500px; 
+	top: 200px;
+	height: 1079px; 
+	width: 700px; 
+	background-color: #FFFFFF; 
+	z-index: 0;
+}
+p.tituloContenido{color:#000000;font-size: 40;font-family: Impact, Charcoal, sans-serif; text-align: center;}
+div.textoContenido{color:#000000;font-size: 15;font-family: Arial, Helvetica, sans-serif; text-align: left;}
+div.imgJesus{position: absolute; left: 70px; top: 200px; z-index: 1;}
+div.imgHistoria1{position: absolute; left: 22px; top: 510px; z-index: 1;}
+div.imgHistoria2{position: absolute; left: 22px; top: 760px; z-index: 1;}
+div.imgHistoria3{position: absolute; left: 22px; top: 1015px; z-index: 1;}
+
+div.imgMision{position: absolute; left: 22px; top: 280px; z-index: 1;}
+div.imgVision{position: absolute; left: 22px; top: 550px; z-index: 1;}
+div.imgUAAlove{position: absolute; left: 700px; top: 1040px; z-index: 1;}
+
+div.imgUAAsalones1{position: absolute; left: 22px; top: 480px; z-index: 1;}
+div.imgIndustrial{position: absolute; left: 22px; top: 740px; z-index: 1;}
+div.imgSalud{position: absolute; left: 22px; top: 1050px; z-index: 1;}
+
+p.tituloFormulario{font-size: 20; color: #000000 Impact, Charcoal, sans-serif; text-align: center;}
+
+div.imgFormacion{position: absolute; left: 22px; top: 230px; z-index: 1;}
+div.imgArtes{position: absolute; left: 22px; top: 400px; z-index: 1;}
+div.imgIdioma{position: absolute; left: 22px; top: 670px; z-index: 1;}
+div.imgDeportes{position: absolute; left: 22px; top: 1000px; z-index: 1;}
